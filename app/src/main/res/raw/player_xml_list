@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<player_detaisl>
+    <playerTag>
+        <player_first_name>BERND</player_first_name>
+        <player_last_namev>Leno</player_last_namev>
+        <player_country>Germany</player_country>
+        <player_profile_Image>bernd_leno_org.jpg</player_profile_Image>
+        <player_country_Image>germany_flag.png</player_country_Image>
+        <player_profile_video>leno_welcome.mp4</player_profile_video>
+        <birth>Bietighem-Bissingen, Germany - March 04 1992</birth>
+        <position>Goalkeeper</position>
+        <history>VfB Stuttgart, Bayer Leverkusen</history>
+        <signedDate>June 19 2018</signedDate>
+    </playerTag>
+    <playerTag>
+        <player_first_name>SEAD</player_first_name>
+        <player_last_namev>Kolasinac</player_last_namev>
+        <player_country>Bosnia Herzegovina</player_country>
+        <player_profile_Image>sead_kolasinac.jpg</player_profile_Image>
+        <player_country_Image>bosnia_herzegovina_flag.jpg</player_country_Image>
+        <player_profile_video>seed_welcome.mp4</player_profile_video>
+        <birth>Karlsruhe, Germany - June 20, 1993</birth>
+        <position>Defender</position>
+        <history>Karlsruhe, Hoffenheim, Stuttgart, Schalke 04</history>
+        <signedDate>July 01 2017</signedDate>
+    </playerTag>
+    <playerTag>
+        <player_first_name>DAVID</player_first_name>
+        <player_last_namev>Luiz</player_last_namev>
+        <player_country>Brazil</player_country>
+        <player_profile_Image>david_luiz.jpg</player_profile_Image>
+        <player_country_Image>brazil_flag.jpg</player_country_Image>
+        <player_profile_video>david_luiz_welcome.mp4</player_profile_video>
+        <birth>Diadema, Brazil - April 22, 1987</birth>
+        <position>Defender</position>
+        <history>Chelsea, PSG, Chelsea, Benfica, Vitoria</history>
+        <signedDate>August 08 2019</signedDate>
+    </playerTag>
+    <playerTag>
+        <player_first_name>SHKODRAN</player_first_name>
+        <player_last_namev>Mustafi</player_last_namev>
+        <player_country>Germany</player_country>
+        <player_profile_Image>shkodran_mustafi.jpg</player_profile_Image>
+        <player_country_Image>germany_flag.png</player_country_Image>
+        <player_profile_video>mustafi_welcome.mp4</player_profile_video>
+        <birth>Bad Hersfeld, Germany - April 17, 1992</birth>
+        <position>Defender</position>
+        <history>FV Bebra, SV Rotenburg, Hamburg, Everton, Sampdoria, Valencia</history>
+        <signedDate>August 30 2016</signedDate>
+    </playerTag>
+    <playerTag>
+        <player_first_name>SOKRATIS</player_first_name>
+        <player_last_namev>Papastathopoulos</player_last_namev>
+        <player_country>Greece</player_country>
+        <player_profile_Image>sokratis_papastathopoulos.jpg</player_profile_Image>
+        <player_country_Image>greece_flag.png</player_country_Image>
+        <player_profile_video>sokratis_welcome.mp4</player_profile_video>
+        <birth>Kalamata, Greece - June 9, 1988/</birth>
+        <position>Defender</position>
+        <history>AEK Athens, Niki Volos (loan), Genoa, Milan, Werder Bremen (loan), Werder Bremen, Borussia Dortmund</history>
+        <signedDate>July 02 2018</signedDate>
+    </playerTag>
+    <playerTag>
+        <player_first_name>Matteo</player_first_name>
+        <player_last_namev>Guendouzi</player_last_namev>
+        <player_country>France</player_country>
+        <player_profile_Image>matteo_guendouzi.jpg</player_profile_Image>
+        <player_country_Image>france_flag.png</player_country_Image>
+        <player_profile_video>guendouzi_welcome.mp4</player_profile_video>
+        <birth>Poissy, France - April 14, 1999</birth>
+        <position>Midfielder</position>
+        <history>Paris Saint-Germain, Lorient</history>
+        <signedDate>July 11 2018</signedDate>
+    </playerTag>
+    <playerTag>
+        <player_first_name>LUCAS</player_first_name>
+        <player_last_namev>Torreira</player_last_namev>
+        <player_country>Uruguay</player_country>
+        <player_profile_Image>lucas_torreira.jpg</player_profile_Image>
+        <player_country_Image>uruguay_flag.png</player_country_Image>
+        <player_profile_video>torreira_welcome.mp4</player_profile_video>
+        <birth>Fray Bentos, Uruguay - February 11, 1996</birth>
+        <position>Midfielder</position>
+        <history>Pescara, Sampdoria</history>
+        <signedDate>July 10 2018</signedDate>
+    </playerTag>
+    <playerTag>
+        <player_first_name>DANI</player_first_name>
+        <player_last_namev>Ceballos</player_last_namev>
+        <player_country>Spain</player_country>
+        <player_profile_Image>dani_ceballos.jpg</player_profile_Image>
+        <player_country_Image>spain_flag.png</player_country_Image>
+        <player_profile_video>ceballos_welcome.mp4</player_profile_video>
+        <birth>Utrera, Spain - August 7, 1996</birth>
+        <position>Midfielder</position>
+        <history>Real Madrid</history>
+        <signedDate>July 25 2019</signedDate>
+    </playerTag>
+    <playerTag>
+        <player_first_name>MESUT</player_first_name>
+        <player_last_namev>Ozil</player_last_namev>
+        <player_country>Germany</player_country>
+        <player_profile_Image>mesut_ozil.jpg</player_profile_Image>
+        <player_country_Image>germany_flag.png</player_country_Image>
+        <player_profile_video>ozil_welcom.mp4</player_profile_video>
+        <birth>Gelsenkirchen, Germany - October 15, 1988</birth>
+        <position>Midfielder</position>
+        <history>Schalke, Werder Bremen, Real Madrid</history>
+        <signedDate>September 02 2013</signedDate>
+    </playerTag>
+    <playerTag>
+        <player_first_name>NICOLAS</player_first_name>
+        <player_last_namev>Pepe</player_last_namev>
+        <player_country>Ivory Coast</player_country>
+        <player_profile_Image>nicolas_pepe.jpg</player_profile_Image>
+        <player_country_Image>ivory_coast_flag.png</player_country_Image>
+        <player_profile_video>nicolas_pepe_welcome.mp4</player_profile_video>
+        <birth>Mantes-la-Jolie, France - May 29, 1995</birth>
+        <position>Forward</position>
+        <history>Poitiers, Angers, Orléans (loan), Lille</history>
+        <signedDate>August 01 2019</signedDate>
+    </playerTag>
+    <playerTag>
+        <player_first_name>ALEXANDRE</player_first_name>
+        <player_last_namev>Lacazette</player_last_namev>
+        <player_country>France</player_country>
+        <player_profile_Image>alexandre_lacazette.jpg</player_profile_Image>
+        <player_country_Image>france_flag.png</player_country_Image>
+        <player_profile_video>lacazette_welcom.mp4</player_profile_video>
+        <birth>Lyon, France - May 28, 1991</birth>
+        <position>Forward</position>
+        <history>Lyon</history>
+        <signedDate>July 05 2017</signedDate>
+    </playerTag>
+    <playerTag>
+        <player_first_name>PIERRE-EMERICK</player_first_name>
+        <player_last_namev>Aubameyang</player_last_namev>
+        <player_country>Gabon</player_country>
+        <player_profile_Image>pierre_emerick_aubameyang.jpg</player_profile_Image>
+        <player_country_Image>gabon_flag.png</player_country_Image>
+        <player_profile_video>aubameyang_welcome.mp4</player_profile_video>
+        <birth>Laval, France - June 18, 1989</birth>
+        <position>Forward</position>
+        <history>AC Milan, Lille (loan), Monaco (loan), Saint-Etienne, Borussia Dortmund</history>
+        <signedDate>January 31 2018</signedDate>
+    </playerTag>
+    <playerTag>
+        <player_first_name>Reiss</player_first_name>
+        <player_last_namev>Nelson</player_last_namev>
+        <player_country>England</player_country>
+        <player_profile_Image>reiss_nelson.jpg</player_profile_Image>
+        <player_country_Image>england_flag.png</player_country_Image>
+        <player_profile_video>reiss_welcome.mp4</player_profile_video>
+        <birth>London - December 10, 1999</birth>
+        <position>Forward</position>
+        <history>NA</history>
+        <signedDate>December 01 2016</signedDate>
+    </playerTag>
+
+</player_detaisl>
